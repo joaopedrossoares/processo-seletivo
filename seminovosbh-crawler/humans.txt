@@ -1,0 +1,34 @@
+                            
+/* TEAM */
+
+                            
+Your title: João Pedro dos Santos.
+
+                            
+Site: jaopss@outlook.com
+
+
+
+                            
+Location: Belo Horionte - MG, Brasil.
+
+                         
+							
+/* THANKS */
+
+Agradeço a oportunidade de participar do processo!
+						                            
+/* SITE */
+
+                            
+Last update: 11/03/2019 
+
+                            
+Standards: PHP 7.2
+
+                            
+Components: Laravel.
+
+                            
+Software: Visual Studio Code.
+   

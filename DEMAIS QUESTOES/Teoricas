@@ -1,0 +1,10 @@
+    2 - Em javascript o operador == verifica se o valor do objeto é igual ao segundo objeto comparado. Entretanto o operador ===
+        compara, além do valor, o tipo do objeto comparado. Exemplo: "1" == 1 -> true; "1" === 1 -> false   
+
+    4 - Saída: 42
+
+    5 - Apesar de nodeJS não ser um ambiente feito para aplicações de grande uso de cpu, ele possui suporte à threads, que são chamadas
+    de worker threads. Entretanto há cerca de um ano ainda era uma ambiente single thread, sendo assim, para que usemos tal recurso
+    é recomendado que haja um estudo aprofundado no assunto e na documentação do nodeJS.
+
+    
